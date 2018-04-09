@@ -1,0 +1,11 @@
+-cp src
+-lib markdown
+-lib tink_url
+-main GrfTest
+-js bin/grftest.js
+-D js-flatten 
+-dce full
+--next
+-cmd echo '<!DOCTYPE html><meta charset="UTF-8"><html><body><script src="grftest.js"></script></body></html>' >bin/index.html
+#-cmd python -m http.server 8888 &
+-cmd open http://localhost:8888
