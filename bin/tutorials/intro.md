@@ -9,4 +9,4 @@ Select the login tutorial from below.
  * [profile page](index.html?dummy=2#profilePage) just to show approach 
  
  The Markdown file for the login tutorial is.
- * [login tutorial markdown ](https://github.com/nanjizal/grfTest/blob/master/bin/tutorials/intro.md)
+ * [login tutorial markdown ](https://github.com/nanjizal/grfTest/blob/master/bin/tutorials/)
