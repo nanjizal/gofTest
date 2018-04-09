@@ -4,9 +4,9 @@
 Select the login tutorial from below.
 
  * [Login Tutorial](index.html?dummy=0#login)  <- pick this one.
+ 
  * [change email tutorial](index.html?dummy=1#changeEmail) just to show approach 
  * [profile page](index.html?dummy=2#profilePage) just to show approach 
  
  The Markdown file for the login tutorial is.
- 
- * [login tutorial markdown ](/tutorials/)
+ * [login tutorial markdown ](https://github.com/nanjizal/grfTest/blob/master/bin/tutorials/intro.md)
